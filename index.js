@@ -17,7 +17,7 @@ const client = new Client({
 // ====== CONFIG ======
 const TOKEN = process.env.TOKEN; // put token in env
 const CLIENT_ID = "1381506626388754432";
-const GUILD_ID = "YOUR_GUILD_ID";
+const GUILD_ID = "1449760032941146134";
 const CITIZEN_ROLE_ID = "1456271995518845100";
 // ====================
 
